@@ -7,3 +7,6 @@ Test Robot Framework Logging
 Test something else
     Log   I should run something
     Log   and check its result
+
+Test my own
+	Log  ahahah
